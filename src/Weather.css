@@ -36,6 +36,10 @@
   display: inline-block;
 }
 
+.Weather a {
+  text-decoration: none;
+}
+
 .Weather .temperature {
   color: rgb(33, 33, 33);
   font-size: 64px;
